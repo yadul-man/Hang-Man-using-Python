@@ -1,6 +1,6 @@
 # Hang-Man-using-Python
 
-This is a simple python project that uses Python to allow a user to play the game Hang Man.
+This is a simple program that uses Python to simulate the game Hang Man.
 It is a game of guessing the letters of a random word until all lives are over.
 
 Logic:
