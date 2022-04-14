@@ -1,5 +1,6 @@
 import random
 import string
+# The set of words are stored in file words.py. This is imported for random selection
 from words import words
 
 # Choose a random word without a space or '-' in it
