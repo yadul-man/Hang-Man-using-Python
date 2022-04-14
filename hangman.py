@@ -22,6 +22,7 @@ def play():
     word = choose_word()
     guess_word = '-' * len(word)
     temp = ""
+    # This line must be commented to hide the chosen word
     print(word)
 
     print("\nWord: " + f"{guess_word}")
