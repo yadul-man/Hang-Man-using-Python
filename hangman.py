@@ -87,4 +87,5 @@ def play():
         print("\nWord: " + f"{guess_word}")
         letter = input("Guess a letter (press - to exit): ")
 
+# Program starts here   
 play()
